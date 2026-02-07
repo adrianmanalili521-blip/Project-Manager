@@ -17,4 +17,4 @@ function Filter ({ icon }: FilterProps) {
     )
 }
 
-export default Filter;
+export default Filter
